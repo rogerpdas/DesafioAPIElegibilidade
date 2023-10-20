@@ -30,6 +30,7 @@ Estou utilizando um arquivo **docker-compose.yaml** que tambem se encontra na ra
 3. Para finalizar **docker-compose down**, serviço será encerrado.
 
 Se tudo estiver conforme o esperado, o docker retorna a mensagem **done**, isso significa que o ambiente está apto para uso.
+
 ![image](https://github.com/rogerpdas/DesafioAPIElegibilidade/assets/50201131/ed9cea83-b37a-4026-885e-3e0d96c5da2d)
 
 Caso queira executar um pré-teste, abra a ferramenta desejada e realize o envio request seguir:
@@ -62,6 +63,7 @@ Será apresentado como resultado:
 ```
 
 Exemplo realizando o envio da request via POSTMAN:
+
 ![image](https://github.com/rogerpdas/DesafioAPIElegibilidade/assets/50201131/a64451ab-fa88-4b91-a5ee-553cbaaeb069)
 
 Observação: No projeto em **(package com.itau.api.elegibilidade.core/Constantes)** a URL_Base está definida como localhost, justamente para facilitar na execução, caso necessário tambem inserir um comentário.
@@ -108,21 +110,20 @@ Exemplo:
 
 #### Referentes as melhorias no processo:
 
-- Precisamos definir o DOR (Definition of Ready/definição de preparado)
+- Precisamos definir o DOR (Definition of Ready/definição de preparado) contendo a listagem como:
 ```
- contendo a listagem como:
-As tarefas que serão desenvolvidas em checklist
-Histórias escritas em BDD
-Critérios de aceite de forma detalhada
+- As tarefas que serão desenvolvidas em checklist
+- Histórias escritas em BDD
+- Critérios de aceite de forma detalhada
 ```
 
 
 - Definir DOD (Definition of Done/definição de feito):
-```
 Será considerado como pronto, a partir que a listagem esteja concluída, como exemplo:
-Atividades concluídas
-Código validado e revisado
-Teste executados e validados conforme os critérios de aceite
-Conclusão dos testes automatizados e integrados em (pipeline/CICD).
+```
+- Atividades concluídas
+- Código validado e revisado
+- Teste executados e validados conforme os critérios de aceite
+- Conclusão dos testes automatizados e integrados em (pipeline/CICD).
 ```
 

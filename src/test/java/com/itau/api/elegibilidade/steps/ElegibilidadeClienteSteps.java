@@ -2,9 +2,9 @@ package com.itau.api.elegibilidade.steps;
 
 import com.itau.api.elegibilidade.util.EfetivarContratosJson;
 import com.itau.api.elegibilidade.util.ServicosRequisicao;
-import cucumber.api.java.pt.Dado;
-import cucumber.api.java.pt.Então;
-import cucumber.api.java.pt.Quando;
+import io.cucumber.java.pt.Dado;
+import io.cucumber.java.pt.Quando;
+import io.cucumber.java.pt.Então;
 import io.restassured.response.ExtractableResponse;
 import org.junit.Assert;
 
@@ -15,22 +15,38 @@ public class ElegibilidadeClienteSteps {
 
     @Dado("^que obtenho os registros de um unino contrato validos \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" (\\d+)$")
     public void registrosContratoValido(String indicador_conta_ativa, String indicador_cliente_correntista, String codigo_tipo_produto_oferta, int codigo_produto_origem) {
-        contrato_json = EfetivarContratosJson.adicionarContratos(indicador_conta_ativa, indicador_cliente_correntista, codigo_tipo_produto_oferta, codigo_produto_origem);
+        contrato_json = EfetivarContratosJson.adicionarContratos(
+                indicador_conta_ativa,
+                indicador_cliente_correntista,
+                codigo_tipo_produto_oferta,
+                codigo_produto_origem);
     }
 
     @Dado("^que obtenho os registros de um unico contrato com divergencia nos codigo de oferta ou origem \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" (\\d+)$")
     public void registrosContratoCodigoInvalido(String indicador_conta_ativa, String indicador_cliente_correntista, String codigo_tipo_produto_oferta, int codigo_produto_origem) {
-        contrato_json = EfetivarContratosJson.adicionarContratos(indicador_conta_ativa, indicador_cliente_correntista, codigo_tipo_produto_oferta, codigo_produto_origem);
+        contrato_json = EfetivarContratosJson.adicionarContratos(
+                indicador_conta_ativa,
+                indicador_cliente_correntista,
+                codigo_tipo_produto_oferta,
+                codigo_produto_origem);
     }
 
     @Dado("^que obtenho os registros de um unico contrato com a conta inativa \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" (\\d+)$")
     public void registrosContratoContaInativo(String indicador_conta_ativa, String indicador_cliente_correntista, String codigo_tipo_produto_oferta, int codigo_produto_origem) {
-        contrato_json = EfetivarContratosJson.adicionarContratos(indicador_conta_ativa, indicador_cliente_correntista, codigo_tipo_produto_oferta, codigo_produto_origem);
+        contrato_json = EfetivarContratosJson.adicionarContratos(
+                indicador_conta_ativa,
+                indicador_cliente_correntista,
+                codigo_tipo_produto_oferta,
+                codigo_produto_origem);
     }
 
     @Dado("^que obtenho os registros de um unico contrato com o indicador do cliente correntista inativo \"([^\"]*)\" \"([^\"]*)\" \"([^\"]*)\" (\\d+)$")
     public void registrosContratoIndicadorClienteInativo(String indicador_conta_ativa, String indicador_cliente_correntista, String codigo_tipo_produto_oferta, int codigo_produto_origem) {
-        contrato_json = EfetivarContratosJson.adicionarContratos(indicador_conta_ativa, indicador_cliente_correntista, codigo_tipo_produto_oferta, codigo_produto_origem);
+        contrato_json = EfetivarContratosJson.adicionarContratos(
+                indicador_conta_ativa,
+                indicador_cliente_correntista,
+                codigo_tipo_produto_oferta,
+                codigo_produto_origem);
     }
 
     @Quando("^for realizado o envio desse contrato através de um payload$")

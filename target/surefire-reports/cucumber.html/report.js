@@ -329,14 +329,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 319417800,
+  "duration": 258211200,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 2537554800,
+  "duration": 2391727800,
   "status": "passed"
 });
 formatter.match({
@@ -349,7 +349,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 395146000,
+  "duration": 365911300,
   "status": "passed"
 });
 formatter.match({
@@ -362,7 +362,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 192700,
+  "duration": 205000,
   "status": "passed"
 });
 formatter.scenario({
@@ -430,14 +430,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 289300,
+  "duration": 436900,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 84861800,
+  "duration": 50293700,
   "status": "passed"
 });
 formatter.match({
@@ -450,7 +450,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 18561600,
+  "duration": 18914000,
   "status": "passed"
 });
 formatter.match({
@@ -463,7 +463,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 113700,
+  "duration": 200500,
   "status": "passed"
 });
 formatter.scenario({
@@ -531,14 +531,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 269600,
+  "duration": 320000,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 72832700,
+  "duration": 47055000,
   "status": "passed"
 });
 formatter.match({
@@ -551,7 +551,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 10136600,
+  "duration": 9248200,
   "status": "passed"
 });
 formatter.match({
@@ -564,7 +564,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 114200,
+  "duration": 118000,
   "status": "passed"
 });
 formatter.scenario({
@@ -632,14 +632,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 403200,
+  "duration": 241700,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 71633800,
+  "duration": 43747500,
   "status": "passed"
 });
 formatter.match({
@@ -652,7 +652,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 7949900,
+  "duration": 7084600,
   "status": "passed"
 });
 formatter.match({
@@ -665,7 +665,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 123400,
+  "duration": 91500,
   "status": "passed"
 });
 formatter.scenario({
@@ -733,14 +733,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 266400,
+  "duration": 282300,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 53034300,
+  "duration": 35604800,
   "status": "passed"
 });
 formatter.match({
@@ -753,7 +753,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 12086200,
+  "duration": 8453900,
   "status": "passed"
 });
 formatter.match({
@@ -766,7 +766,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 146000,
+  "duration": 97600,
   "status": "passed"
 });
 formatter.scenario({
@@ -834,14 +834,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 266900,
+  "duration": 257700,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 59307500,
+  "duration": 43044700,
   "status": "passed"
 });
 formatter.match({
@@ -854,7 +854,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 11560500,
+  "duration": 11274700,
   "status": "passed"
 });
 formatter.match({
@@ -867,7 +867,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 147300,
+  "duration": 203300,
   "status": "passed"
 });
 formatter.scenario({
@@ -935,14 +935,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 387300,
+  "duration": 429400,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 71958600,
+  "duration": 63871200,
   "status": "passed"
 });
 formatter.match({
@@ -955,7 +955,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 14253900,
+  "duration": 10885600,
   "status": "passed"
 });
 formatter.match({
@@ -968,7 +968,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 197900,
+  "duration": 130400,
   "status": "passed"
 });
 formatter.scenario({
@@ -1036,14 +1036,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 398000,
+  "duration": 341600,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 89113100,
+  "duration": 66440200,
   "status": "passed"
 });
 formatter.match({
@@ -1056,7 +1056,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 21255200,
+  "duration": 14281900,
   "status": "passed"
 });
 formatter.match({
@@ -1069,7 +1069,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 228000,
+  "duration": 459300,
   "status": "passed"
 });
 formatter.scenario({
@@ -1137,14 +1137,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 419000,
+  "duration": 328200,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 68992700,
+  "duration": 55993500,
   "status": "passed"
 });
 formatter.match({
@@ -1157,7 +1157,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 14184300,
+  "duration": 15014500,
   "status": "passed"
 });
 formatter.match({
@@ -1170,7 +1170,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 160400,
+  "duration": 155500,
   "status": "passed"
 });
 formatter.scenario({
@@ -1238,14 +1238,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 299500,
+  "duration": 333600,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 73276400,
+  "duration": 40120800,
   "status": "passed"
 });
 formatter.match({
@@ -1258,7 +1258,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 17786800,
+  "duration": 10668400,
   "status": "passed"
 });
 formatter.match({
@@ -1271,7 +1271,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 200800,
+  "duration": 120400,
   "status": "passed"
 });
 formatter.scenario({
@@ -1339,14 +1339,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 538500,
+  "duration": 383400,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 41491800,
+  "duration": 58705800,
   "status": "passed"
 });
 formatter.match({
@@ -1359,7 +1359,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 8915500,
+  "duration": 11613300,
   "status": "passed"
 });
 formatter.match({
@@ -1372,7 +1372,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 107500,
+  "duration": 128400,
   "status": "passed"
 });
 formatter.scenario({
@@ -1440,14 +1440,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 220600,
+  "duration": 361700,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 41464900,
+  "duration": 33210000,
   "status": "passed"
 });
 formatter.match({
@@ -1460,7 +1460,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 9962600,
+  "duration": 12042100,
   "status": "passed"
 });
 formatter.match({
@@ -1473,7 +1473,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 133800,
+  "duration": 112300,
   "status": "passed"
 });
 formatter.scenario({
@@ -1541,14 +1541,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 323200,
+  "duration": 300000,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 47304900,
+  "duration": 40181200,
   "status": "passed"
 });
 formatter.match({
@@ -1561,7 +1561,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 8554700,
+  "duration": 10395400,
   "status": "passed"
 });
 formatter.match({
@@ -1574,7 +1574,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 114100,
+  "duration": 103100,
   "status": "passed"
 });
 formatter.scenario({
@@ -1642,14 +1642,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 327500,
+  "duration": 1584300,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 43969300,
+  "duration": 40235400,
   "status": "passed"
 });
 formatter.match({
@@ -1662,7 +1662,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 11983500,
+  "duration": 11704900,
   "status": "passed"
 });
 formatter.match({
@@ -1675,7 +1675,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 120600,
+  "duration": 151700,
   "status": "passed"
 });
 formatter.scenario({
@@ -1743,14 +1743,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 347300,
+  "duration": 290500,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 50558900,
+  "duration": 35857200,
   "status": "passed"
 });
 formatter.match({
@@ -1763,7 +1763,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 11687800,
+  "duration": 12953200,
   "status": "passed"
 });
 formatter.match({
@@ -1776,7 +1776,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 91100,
+  "duration": 181100,
   "status": "passed"
 });
 formatter.scenario({
@@ -1844,14 +1844,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 912100,
+  "duration": 1045300,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 64922600,
+  "duration": 48730400,
   "status": "passed"
 });
 formatter.match({
@@ -1864,7 +1864,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 10540300,
+  "duration": 14718700,
   "status": "passed"
 });
 formatter.match({
@@ -1877,7 +1877,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 378600,
+  "duration": 510900,
   "status": "passed"
 });
 formatter.scenario({
@@ -1945,14 +1945,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 204500,
+  "duration": 367100,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 30690900,
+  "duration": 28907000,
   "status": "passed"
 });
 formatter.match({
@@ -1965,7 +1965,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 7444400,
+  "duration": 11766900,
   "status": "passed"
 });
 formatter.match({
@@ -1978,7 +1978,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 89000,
+  "duration": 115700,
   "status": "passed"
 });
 formatter.scenario({
@@ -2046,14 +2046,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoValido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 186500,
+  "duration": 313300,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 34817400,
+  "duration": 24356700,
   "status": "passed"
 });
 formatter.match({
@@ -2066,7 +2066,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 8498400,
+  "duration": 11411200,
   "status": "passed"
 });
 formatter.match({
@@ -2079,7 +2079,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 78700,
+  "duration": 113300,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -2333,14 +2333,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoCodigoInvalido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 216700,
+  "duration": 260900,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 16854100,
+  "duration": 18053500,
   "status": "passed"
 });
 formatter.match({
@@ -2353,7 +2353,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 9936300,
+  "duration": 9547400,
   "status": "passed"
 });
 formatter.match({
@@ -2366,7 +2366,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 100000,
+  "duration": 98000,
   "status": "passed"
 });
 formatter.scenario({
@@ -2434,14 +2434,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoCodigoInvalido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 221700,
+  "duration": 242500,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 16808100,
+  "duration": 16464900,
   "status": "passed"
 });
 formatter.match({
@@ -2454,7 +2454,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 8672000,
+  "duration": 11946400,
   "status": "passed"
 });
 formatter.match({
@@ -2467,7 +2467,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 131300,
+  "duration": 88200,
   "status": "passed"
 });
 formatter.scenario({
@@ -2542,7 +2542,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 17480700,
+  "duration": 16961900,
   "status": "passed"
 });
 formatter.match({
@@ -2555,7 +2555,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 8680900,
+  "duration": 12754400,
   "status": "passed"
 });
 formatter.match({
@@ -2568,7 +2568,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 299400,
+  "duration": 128400,
   "status": "passed"
 });
 formatter.scenario({
@@ -2636,14 +2636,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoCodigoInvalido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 269500,
+  "duration": 263100,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 16748900,
+  "duration": 16386400,
   "status": "passed"
 });
 formatter.match({
@@ -2656,7 +2656,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 9015700,
+  "duration": 8005900,
   "status": "passed"
 });
 formatter.match({
@@ -2669,7 +2669,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 108100,
+  "duration": 184600,
   "status": "passed"
 });
 formatter.scenario({
@@ -2737,14 +2737,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoCodigoInvalido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 235700,
+  "duration": 307700,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 14642600,
+  "duration": 17875100,
   "status": "passed"
 });
 formatter.match({
@@ -2757,7 +2757,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 8056500,
+  "duration": 9018900,
   "status": "passed"
 });
 formatter.match({
@@ -2770,7 +2770,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 87100,
+  "duration": 183900,
   "status": "passed"
 });
 formatter.scenario({
@@ -2838,14 +2838,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoCodigoInvalido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 231300,
+  "duration": 297300,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 18785000,
+  "duration": 16786800,
   "status": "passed"
 });
 formatter.match({
@@ -2858,7 +2858,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 9521000,
+  "duration": 8452700,
   "status": "passed"
 });
 formatter.match({
@@ -2871,7 +2871,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 77600,
+  "duration": 124800,
   "status": "passed"
 });
 formatter.scenario({
@@ -2939,14 +2939,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoCodigoInvalido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 184200,
+  "duration": 188900,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 18749800,
+  "duration": 15971900,
   "status": "passed"
 });
 formatter.match({
@@ -2959,7 +2959,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 7512300,
+  "duration": 10996100,
   "status": "passed"
 });
 formatter.match({
@@ -2972,7 +2972,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 85800,
+  "duration": 127100,
   "status": "passed"
 });
 formatter.scenario({
@@ -3040,14 +3040,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoCodigoInvalido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 243800,
+  "duration": 241600,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 19107600,
+  "duration": 15642000,
   "status": "passed"
 });
 formatter.match({
@@ -3060,7 +3060,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 9123200,
+  "duration": 9761500,
   "status": "passed"
 });
 formatter.match({
@@ -3073,7 +3073,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 96000,
+  "duration": 162100,
   "status": "passed"
 });
 formatter.scenario({
@@ -3141,14 +3141,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoCodigoInvalido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 254500,
+  "duration": 214000,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 19396200,
+  "duration": 16258100,
   "status": "passed"
 });
 formatter.match({
@@ -3161,7 +3161,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 10235500,
+  "duration": 9574800,
   "status": "passed"
 });
 formatter.match({
@@ -3174,7 +3174,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 107900,
+  "duration": 126400,
   "status": "passed"
 });
 formatter.scenario({
@@ -3242,14 +3242,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoCodigoInvalido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 237300,
+  "duration": 265600,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 21281400,
+  "duration": 18402700,
   "status": "passed"
 });
 formatter.match({
@@ -3262,7 +3262,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 11660400,
+  "duration": 10094800,
   "status": "passed"
 });
 formatter.match({
@@ -3275,7 +3275,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 153600,
+  "duration": 103900,
   "status": "passed"
 });
 formatter.scenario({
@@ -3343,14 +3343,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoCodigoInvalido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 221700,
+  "duration": 250200,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 21166000,
+  "duration": 17266800,
   "status": "passed"
 });
 formatter.match({
@@ -3363,7 +3363,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 10444500,
+  "duration": 10939200,
   "status": "passed"
 });
 formatter.match({
@@ -3376,7 +3376,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 127700,
+  "duration": 136700,
   "status": "passed"
 });
 formatter.scenario({
@@ -3444,14 +3444,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoCodigoInvalido(String,String,String,int)"
 });
 formatter.result({
-  "duration": 526100,
+  "duration": 318100,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 26002300,
+  "duration": 24476400,
   "status": "passed"
 });
 formatter.match({
@@ -3464,7 +3464,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 10529300,
+  "duration": 9977100,
   "status": "passed"
 });
 formatter.match({
@@ -3477,7 +3477,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 107000,
+  "duration": 115000,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -3610,14 +3610,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoContaInativo(String,String,String,int)"
 });
 formatter.result({
-  "duration": 269500,
+  "duration": 267300,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 14978000,
+  "duration": 17545400,
   "status": "passed"
 });
 formatter.match({
@@ -3630,7 +3630,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 10524800,
+  "duration": 9969500,
   "status": "passed"
 });
 formatter.match({
@@ -3643,7 +3643,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 115000,
+  "duration": 87000,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -3776,14 +3776,14 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.registrosContratoIndicadorClienteInativo(String,String,String,int)"
 });
 formatter.result({
-  "duration": 429800,
+  "duration": 246500,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 16511600,
+  "duration": 20129200,
   "status": "passed"
 });
 formatter.match({
@@ -3796,7 +3796,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 10879200,
+  "duration": 9612600,
   "status": "passed"
 });
 formatter.match({
@@ -3809,7 +3809,7 @@ formatter.match({
   "location": "ElegibilidadeClienteSteps.validarStatusCode(int)"
 });
 formatter.result({
-  "duration": 219100,
+  "duration": 117200,
   "status": "passed"
 });
 formatter.uri("ElegibilidadeClienteMultiplosContratos.feature");
@@ -4089,7 +4089,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.registrosPrimeiroContrato(String,String,String,int)"
 });
 formatter.result({
-  "duration": 182200,
+  "duration": 242500,
   "status": "passed"
 });
 formatter.match({
@@ -4114,7 +4114,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.registrosSegundoContrato(String,String,String,int)"
 });
 formatter.result({
-  "duration": 119400,
+  "duration": 152400,
   "status": "passed"
 });
 formatter.match({
@@ -4139,14 +4139,14 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.registrosTerceiroContrato(String,String,String,int)"
 });
 formatter.result({
-  "duration": 117100,
+  "duration": 141000,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 16393700,
+  "duration": 18587200,
   "status": "passed"
 });
 formatter.match({
@@ -4159,7 +4159,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 9624600,
+  "duration": 9225100,
   "status": "passed"
 });
 formatter.match({
@@ -4172,7 +4172,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.retornando_o_status_code_apos_o_envio_da_request(int)"
 });
 formatter.result({
-  "duration": 189900,
+  "duration": 159500,
   "status": "passed"
 });
 formatter.scenario({
@@ -4265,7 +4265,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.registrosPrimeiroContrato(String,String,String,int)"
 });
 formatter.result({
-  "duration": 191000,
+  "duration": 173500,
   "status": "passed"
 });
 formatter.match({
@@ -4290,7 +4290,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.registrosSegundoContrato(String,String,String,int)"
 });
 formatter.result({
-  "duration": 120000,
+  "duration": 155300,
   "status": "passed"
 });
 formatter.match({
@@ -4315,14 +4315,14 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.registrosTerceiroContrato(String,String,String,int)"
 });
 formatter.result({
-  "duration": 178400,
+  "duration": 186800,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 15532400,
+  "duration": 16574400,
   "status": "passed"
 });
 formatter.match({
@@ -4335,7 +4335,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 10090500,
+  "duration": 9073500,
   "status": "passed"
 });
 formatter.match({
@@ -4348,7 +4348,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.retornando_o_status_code_apos_o_envio_da_request(int)"
 });
 formatter.result({
-  "duration": 111300,
+  "duration": 158300,
   "status": "passed"
 });
 formatter.scenario({
@@ -4441,7 +4441,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.registrosPrimeiroContrato(String,String,String,int)"
 });
 formatter.result({
-  "duration": 230600,
+  "duration": 194800,
   "status": "passed"
 });
 formatter.match({
@@ -4466,7 +4466,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.registrosSegundoContrato(String,String,String,int)"
 });
 formatter.result({
-  "duration": 239200,
+  "duration": 164300,
   "status": "passed"
 });
 formatter.match({
@@ -4491,14 +4491,14 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.registrosTerceiroContrato(String,String,String,int)"
 });
 formatter.result({
-  "duration": 160000,
+  "duration": 106600,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 15672300,
+  "duration": 21158500,
   "status": "passed"
 });
 formatter.match({
@@ -4511,7 +4511,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 12050800,
+  "duration": 10908600,
   "status": "passed"
 });
 formatter.match({
@@ -4524,7 +4524,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.retornando_o_status_code_apos_o_envio_da_request(int)"
 });
 formatter.result({
-  "duration": 103700,
+  "duration": 109100,
   "status": "passed"
 });
 formatter.scenario({
@@ -4617,7 +4617,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.registrosPrimeiroContrato(String,String,String,int)"
 });
 formatter.result({
-  "duration": 235700,
+  "duration": 179900,
   "status": "passed"
 });
 formatter.match({
@@ -4642,7 +4642,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.registrosSegundoContrato(String,String,String,int)"
 });
 formatter.result({
-  "duration": 127500,
+  "duration": 130000,
   "status": "passed"
 });
 formatter.match({
@@ -4667,14 +4667,14 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.registrosTerceiroContrato(String,String,String,int)"
 });
 formatter.result({
-  "duration": 283400,
+  "duration": 136500,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 28654600,
+  "duration": 29941800,
   "status": "passed"
 });
 formatter.match({
@@ -4687,7 +4687,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 9676100,
+  "duration": 10238700,
   "status": "passed"
 });
 formatter.match({
@@ -4700,7 +4700,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.retornando_o_status_code_apos_o_envio_da_request(int)"
 });
 formatter.result({
-  "duration": 87500,
+  "duration": 100500,
   "status": "passed"
 });
 formatter.scenario({
@@ -4793,7 +4793,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.registrosPrimeiroContrato(String,String,String,int)"
 });
 formatter.result({
-  "duration": 145000,
+  "duration": 147300,
   "status": "passed"
 });
 formatter.match({
@@ -4818,7 +4818,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.registrosSegundoContrato(String,String,String,int)"
 });
 formatter.result({
-  "duration": 294400,
+  "duration": 157800,
   "status": "passed"
 });
 formatter.match({
@@ -4843,14 +4843,14 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.registrosTerceiroContrato(String,String,String,int)"
 });
 formatter.result({
-  "duration": 159200,
+  "duration": 124900,
   "status": "passed"
 });
 formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.enviarPayload()"
 });
 formatter.result({
-  "duration": 15795600,
+  "duration": 26523900,
   "status": "passed"
 });
 formatter.match({
@@ -4863,7 +4863,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.validarStatusElegibilidadeCliente(String)"
 });
 formatter.result({
-  "duration": 10415100,
+  "duration": 13548800,
   "status": "passed"
 });
 formatter.match({
@@ -4876,7 +4876,7 @@ formatter.match({
   "location": "ElegibilidadeClienteMultiplosContratosSteps.retornando_o_status_code_apos_o_envio_da_request(int)"
 });
 formatter.result({
-  "duration": 91300,
+  "duration": 134600,
   "status": "passed"
 });
 });
